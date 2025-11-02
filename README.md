@@ -16,4 +16,4 @@ Full Stack Developer skilled in **MERN Stack (MongoDB, Express.js, React.js, Nod
 - **Other Projects** – Explore my repositories for more MERN and Java projects.  
 
 ## 🔗 Connect with me
-[LinkedIn](https://www.linkedin.com/in/ritesh-harge-19814a248) | [Email](hargeritesh@gmail.com) | [CodeChef](https://www.codechef.com/users/ritesh_harge1)
+[LinkedIn](https://www.linkedin.com/in/riteshharge) | [Email](hargeritesh@gmail.com) | [CodeChef](https://www.codechef.com/users/ritesh_harge1)
