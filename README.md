@@ -4,7 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20There!%20I'm%20Ritesh%20Harge%20👋&fontSize=30&fontAlignY=35&animation=twinkling"/>
 </p>
 
-<h2 align="center">🚀 MERN Full Stack Developer | Problem Solver | Continuous Learner</h2>
+<h2 align="center">⚙️ MERN Stack Developer | Solving Real-World Problems through Scalable Web Solutions</h2>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;API+Integration+%7C+Cloud+Deployment;Building+Scalable+Web+Experiences;Actively+Learning+and+Improving+MERN+Stack"/>
