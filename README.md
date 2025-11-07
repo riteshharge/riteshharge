@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Ritesh Harge
 
 ## 💻 About Me
- MERN Full Stack Developer skilled in end-to-end web application development, API integration, and deployment on
- platforms like Render, Vercel, and Netlify. Equipped with strong hands-on project and internship experience, with a
- focus on building impactful, scalable, and user-friendly applications. Actively seeking a full-stack developer role to
- contribute my technical expertise and continuously enhance my skills and knowledge.  
+   MERN Full Stack Developer skilled in end-to-end web application development, API integration, and deployment on
+   platforms like Render, Vercel, and Netlify. Equipped with strong hands-on project and internship experience, with a
+   focus on building impactful, scalable, and user-friendly applications. Actively seeking a full-stack developer role to
+   contribute my technical expertise and continuously enhance my skills and knowledge.  
 
 ## 🛠 Skills
 - **Programming Languages:** JavaScript, Java  
