@@ -1,6 +1,6 @@
 <!-- Custom Banner (replace image link below with your hosted banner if needed) -->
 <p align="center">
-  <img src="https://i.ibb.co/2NZX2fZ/MERN-Banner.png" alt="Ritesh Harge | MERN Stack Developer Banner" width="100%"/>
+  <img width="600" height="200" alt="Ritesh Harge (1)" src="https://github.com/user-attachments/assets/2df070e0-145f-4750-9452-464abad5c57d" />
 </p>
 
 <!-- Animated Header -->
