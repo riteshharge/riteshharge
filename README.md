@@ -6,11 +6,11 @@
   />
 </p>
 
-<h2 align="center">⚙️ MERN Stack Developer | Solving Real-World Problems through Scalable Web Solutions</h2>
+<h2 align="center">⚙️ MERN Full Stack Developer | Solving Real-World Problems through Scalable Web Solutions</h2>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;API+Integration+%7C+Cloud+Deployment;Building+Scalable+Web+Experiences;Actively+Learning+and+Improving+MERN+Stack" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Full+Stack+Developer;API+Integration+%7C+Cloud+Deployment;Building+Scalable+Web+Experiences;Actively+Learning+and+Improving+MERN+Stack" 
     alt="Typing Effect"
   />
 </p>
