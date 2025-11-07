@@ -6,7 +6,10 @@
   />
 </p>
 
-<h2 align="center">⚙️ MERN Full Stack Developer | Solving Real-World Problems through Scalable Web Solutions</h2>
+<h2 align="center">
+  ⚙️ Full-Stack MERN Developer <br/>
+  Solving Real-World Problems through Scalable Web Solutions
+</h2>
 
 <p align="center">
   <img 
