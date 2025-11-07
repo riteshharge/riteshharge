@@ -13,7 +13,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Full+Stack+Developer;API+Integration+%7C+Cloud+Deployment;Building+Scalable+Web+Experiences;Actively+Learning+and+Improving+MERN+Stack" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;API+Integration+%7C+Cloud+Deployment;Building+Scalable+Web+Experiences;Actively+Learning+and+Improving+MERN+Stack" 
     alt="Typing Effect"
   />
 </p>
@@ -22,20 +22,21 @@
 
 ## 🌟 Highlights
 
-- 🧑‍💻 MERN Stack Developer with hands-on **internship experience at ECS Software Technologies**
-- ⚙️ Developed and deployed full-stack web applications — Foodify (Stripe-integrated food ordering platform with a dedicated admin panel) and Blogify (secure blogging platform with JWT-based authentication)
-- ☁️ Skilled in React.js, Node.js, Render, Vercel, and Netlify
+- 🧑‍💻 Full-Stack MERN Developer with hands-on **internship experience at ECS Software Technologies**
+- ⚙️ Built and deployed full-stack web applications — **Foodify (Stripe-integrated food ordering platform with a dedicated admin panel)** and **Blogify (secure blogging platform with JWT-based authentication)**
+- ☁️ Proficient in **React.js, Node.js, Express.js, MongoDB, Render, Vercel, and Netlify**
 - 💡 Experienced in **RESTful APIs, Authentication, Payment Integration, and Admin Dashboards**
-- 🧩 Solved **250+ DSA problems** on CodeChef, focusing on Java and problem-solving logic
-- 🚀 Currently **learning and improving advanced MERN concepts**, cloud deployments, and DevOps workflows
+- 🧩 Solved **250+ DSA problems** on CodeChef, focusing on **Java and problem-solving logic**
+- 🚀 Passionate about **scalable architecture**, **UI/UX optimization**, and **real-world project delivery**
 
 ---
 
 ## 💻 About Me
 
-I’m a **MERN Full Stack Developer** passionate about crafting high-performance, responsive, and user-centric web applications.  
-With a strong foundation in **frontend architecture**, **backend design**, and **cloud deployments**, I aim to build products that are both **scalable** and **impactful**.  
-Currently, I’m **seeking a Full Stack Developer opportunity** to apply my technical expertise and grow within an innovative and collaborative environment.
+I’m a **Full-Stack MERN Developer** passionate about creating high-performance, responsive, and user-centric web applications.  
+With a solid foundation in **frontend architecture**, **backend design**, and **cloud deployments**, I strive to build products that are **scalable**, **secure**, and **impactful**.  
+
+Currently, I’m seeking a **Full Stack Developer opportunity** where I can apply my technical expertise, contribute to innovative teams, and grow in a collaborative environment.
 
 ---
 
@@ -44,14 +45,14 @@ Currently, I’m **seeking a Full Stack Developer opportunity** to apply my tech
 ### 💼 **MERN Stack Intern — ECS Software Technologies**  
 📍 *Pune, Maharashtra* | 🗓 *Feb 2025 – Jul 2025*
 
-- Gained **hands-on experience in full-stack web development** using the MERN stack.  
-- Designed and optimized **RESTful APIs** to reduce frontend-backend latency by 25%, improving response time and user experience.  
-- Implemented **secure JWT-based authentication and password hashing**, ensuring strong user data protection and preventing unauthorized access.  
-- Collaborated closely with **senior developers** during code reviews, debugging, and testing, improving application **stability and maintainability**.  
-- Contributed to the development of **end-to-end scalable web modules**, integrating **MongoDB**, **React.js**, and **Express.js** for real-world client requirements.  
-- Participated in **agile sprints**, team discussions, and technical documentation, strengthening collaboration and problem-solving skills.  
+- Acquired **hands-on experience** in building and maintaining **full-stack applications** using the MERN stack.  
+- Designed and optimized **RESTful APIs**, reducing frontend-backend latency by **25%**, improving performance and user satisfaction.  
+- Implemented **secure JWT-based authentication and password hashing**, ensuring robust data security.  
+- Collaborated with **senior developers** in code reviews, debugging, and refactoring to enhance application **stability**.  
+- Contributed to the development of **end-to-end scalable modules** using MongoDB, React.js, and Express.js.  
+- Participated in **agile sprints**, team discussions, and technical documentation, boosting communication and collaboration skills.  
 
-📜 [View Internship Certificate](https://drive.google.com/file/d/your_internship_certificate_link_here/view?usp=sharing)
+📜 *View Internship Certificate (Link can be added later)*
 
 ---
 
@@ -59,51 +60,51 @@ Currently, I’m **seeking a Full Stack Developer opportunity** to apply my tech
 
 ### 🍔 **Foodify — MERN Food Delivery App**  
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API, Cloudinary, Axios  
-🔗 [Live Demo](https://foodify-mern.onrender.com) | [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
+🔗 Live Demo: *https://foodify-mern.onrender.com*  
+🔗 GitHub Repo: *https://github.com/riteshharge/Foodify-MERN*
 
 **Description:**  
-A full-stack, responsive **food delivery platform** enabling users to browse restaurants, add items to cart, and make secure payments.  
+A full-stack, responsive **food delivery platform** enabling users to browse restaurants, manage carts, and make secure payments.  
 
 **Key Highlights:**  
-- Developed the entire **frontend and backend architecture**, implementing routes, state management, and UI components for a seamless experience.  
-- Integrated **Stripe API** for online payments and **Cloudinary** for image storage.  
-- Built a comprehensive **Admin Panel** for managing products, users, and orders efficiently.  
-- Integrated **MongoDB Atlas** for cloud database management and scalable performance.  
-- Resolved **15+ production issues** and optimized load performance, enhancing reliability and UX by 30%.  
-- Deployed using **Render** and ensured cross-browser responsiveness through modern UI/UX best practices.  
+- Engineered both **frontend and backend architecture**, ensuring smooth data flow and optimized rendering.  
+- Integrated **Stripe API** for payment processing and **Cloudinary** for image storage.  
+- Built a dedicated **Admin Panel** for managing orders, products, and user data.  
+- Improved performance and load times, increasing **user experience by 30%**.  
+- Deployed on **Render**, ensuring continuous uptime and mobile responsiveness.
 
 ---
 
 ### ✍️ **Blogify — MERN Blogging Platform**  
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Redux  
-🔗 [GitHub Repo](https://github.com/riteshharge/Blog-MernStackDev-App)
+🔗 GitHub Repo: *https://github.com/riteshharge/Blog-MernStackDev-App*
 
 **Description:**  
-A feature-rich **blog application** that allows users to create, edit, and share posts with advanced moderation and interaction features.  
+A feature-rich **blog application** that allows users to create, edit, and share posts securely.  
 
 **Key Highlights:**  
-- Designed and implemented **CRUD operations** with MongoDB and Express, ensuring efficient data management and scalability.  
-- Built **JWT-based authentication** and enhanced login reliability by **reducing failures by 30%**.  
-- Optimized **database queries using indexing**, improving response time by 25%.  
-- Added advanced functionality including **hashtags**, **author mentions**, and a **commenting system** for better user engagement.  
-- Diagnosed and resolved **10+ critical bugs** and introduced **3+ new features** improving system stability and UX.  
-- Integrated responsive UI design and deployed the app seamlessly via GitHub and Render.  
+- Designed and implemented **CRUD operations** with Express.js and MongoDB for efficient data management.  
+- Integrated **JWT-based authentication**, reducing login failures by **30%**.  
+- Enhanced database efficiency with **indexing**, improving query response time by **25%**.  
+- Added **hashtags**, **comments**, and **author mentions** to increase engagement.  
+- Resolved multiple bugs and introduced **new features**, improving stability and user experience.  
+- Deployed the app seamlessly using GitHub and Render.
 
 ---
 
 ## 🧩 Currently Learning & Improving
 
-- 🚀 Deepening expertise in **MERN Stack Architecture** and scalability  
-- ☁️ Exploring **Advanced Cloud Deployments (AWS, GCP)**  
-- ⚙️ Building **DevOps pipelines** using Docker, Jenkins, and GitHub Actions  
-- 🧠 Strengthening **Data Structures & Algorithms** with JavaScript and Java  
+- 🚀 Advancing in **MERN Stack Architecture** and large-scale deployments  
+- ☁️ Exploring **AWS** and **GCP** cloud platforms for hosting and scalability  
+- ⚙️ Building **CI/CD pipelines** with Docker, Jenkins, and GitHub Actions  
+- 🧠 Strengthening **Data Structures & Algorithms** using Java and JavaScript  
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Computer Engineering**  
-🏫 Rajarambapu Institute of Technology, Sangli, Maharashtra  
+**Bachelor of Technology in Computer Engineering**  
+🏫 *Rajarambapu Institute of Technology, Sangli, Maharashtra*  
 📅 *Sept 2021 – Jul 2025*
 
 ---
@@ -131,7 +132,7 @@ A feature-rich **blog application** that allows users to create, edit, and share
   <a href="https://www.codechef.com/users/ritesh_harge1"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
-📄 [View My Resume](https://drive.google.com/file/d/your_updated_resume_link_here/view?usp=sharing)
+📄 *[View My Resume (Link can be added later)]*
 
 ---
 
@@ -151,5 +152,5 @@ A feature-rich **blog application** that allows users to create, edit, and share
 
 ⭐ *If you like my work, consider giving my repositories a star!* 🌟  
 
-<!-- Keywords: MERN Stack Developer, Full Stack Developer, React.js, Node.js, Express.js, MongoDB, Next.js, AWS, GCP, Vercel, Render -->
+<!-- Keywords: Full Stack MERN Developer, React.js, Node.js, Express.js, MongoDB, REST APIs, Cloud Deployment, AWS, GCP, DevOps -->
 
