@@ -3,7 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20There!%20I'm%20Ritesh%20Harge%20👋&fontSize=30&fontAlignY=35&animation=twinkling"/>
 </p>
 
-<h2 align="center">🚀 MERN Full Stack Developer | Problem Solver | Continuous Learner</h2>
+<h2 align="center">
+  ⚙️ Full-Stack MERN Developer <br/>
+  Solving Real-World Problems through Scalable Web Solutions
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;API+Integration+%7C+Cloud+Deployment;Building+Scalable+Web+Experiences;Actively+Learning+and+Improving+MERN+Stack"/>
@@ -13,32 +16,28 @@
 
 ## 🌟 Highlights
 - 🧑‍💻 MERN Stack Developer with hands-on **internship experience at ECS Software Technologies**
-- ⚙️ Built and deployed **2 full-stack applications** — *Foodify (Stripe-integrated food ordering platform with a dedicated admin panel)* and *Blogify (JWT Auth blogging platform)*
+- ⚙️ Built and deployed **full-stack applications** — *Foodify* (Stripe-integrated) and *Blogify* (JWT Auth)
 - ☁️ Skilled in **AWS, GCP, Render, Vercel, and Netlify**
 - 💡 Experienced in **RESTful APIs, Authentication, Payment Integration, and Admin Dashboards**
-- 🧩 Solved **250+ DSA problems** on CodeChef, focusing on **Java and problem-solving logic**
-- 🚀 Currently **learning and improving advanced MERN concepts**, cloud deployments, and DevOps workflows
+- 🧩 Solved **250+ DSA problems** on CodeChef, focusing on Java and problem-solving logic
+- 🚀 Actively **learning and improving advanced MERN concepts**, cloud deployments, and DevOps workflows
 
 ---
 
 ## 💻 About Me
-I am a **MERN Full Stack Developer** skilled in end-to-end web application development, API integration, and deployment on platforms like **Render, Vercel, and Netlify**.  
-I focus on building **impactful, scalable, and user-friendly applications** that deliver real-world value.  
-I’m **actively seeking a Full Stack Developer role** to contribute my expertise, collaborate on innovative projects, and grow within a dynamic tech environment.
+I am a **MERN Full Stack Developer** skilled in end-to-end web application development, API integration, and deployment on platforms like **Render, Vercel, and Netlify**. Equipped with strong hands-on project and internship experience, with a focus on building **impactful, scalable, and user-friendly applications**. Actively seeking a **full-stack developer role** to contribute my technical expertise and continuously enhance my skills and knowledge.
 
 ---
 
 ## 🧑‍💼 Internship Experience
-
 ### 💼 **MERN Stack Intern — ECS Software Technologies**  
 📍 *Pune, Maharashtra* | 🗓 *Feb 2025 – Jul 2025*
 
 - Gained **hands-on experience in full-stack web development** using the MERN stack.  
-- Designed and optimized **RESTful APIs** to reduce frontend-backend latency by 25%, improving response time and user experience.  
+- Designed and optimized **RESTful APIs** to reduce frontend-backend latency by 25%, improving response time and application performance.  
 - Implemented **secure JWT-based authentication and password hashing**, ensuring strong user data protection and preventing unauthorized access.  
 - Collaborated closely with **senior developers** during code reviews, debugging, and testing, improving application **stability and maintainability**.  
-- Contributed to the development of **end-to-end scalable web modules**, integrating **MongoDB**, **React.js**, and **Express.js** for real-world client requirements.  
-- Participated in **agile sprints**, team discussions, and technical documentation, strengthening collaboration and problem-solving skills.  
+- Participated in **agile sprints, team discussions, and technical documentation**, strengthening collaboration and problem-solving skills.  
 
 📜 [View Internship Certificate](https://drive.google.com/file/d/your_internship_certificate_link_here/view?usp=sharing)
 
@@ -106,47 +105,36 @@ I’m **actively seeking a Full Stack Developer role** to contribute my expertis
 
 ---
 
+
 ## 💼 Featured Projects
 
-### 🍔 **Foodify — MERN Food Delivery App**
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API, Cloudinary, Axios  
-🔗 [Live Demo](https://foodify-mern.onrender.com) | 🔗 [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
-
-**Description:**  
-A full-stack, responsive **food delivery platform** enabling users to browse restaurants, add items to cart, and make secure payments.  
-
-**Key Highlights:**  
-- Developed the entire **frontend and backend architecture**, implementing routes, state management, and UI components for a seamless experience.  
-- Integrated **Stripe API** for online payments and **Cloudinary** for image storage.  
-- Built a comprehensive **Admin Panel** for managing products, users, and orders efficiently.  
-- Integrated **MongoDB Atlas** for cloud database management and scalable performance.  
-- Resolved **15+ production issues** and optimized load performance, enhancing reliability and UX by 30%.  
-- Deployed using **Render** and ensured cross-browser responsiveness through modern UI/UX best practices.  
+### 🍔 **Foodify — MERN Food Delivery App** 🔗 [Live Demo](https://foodify-mern.onrender.com) | [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API, Cloudinary  
+- Developed a **full-stack food delivery application** with features including **authentication, cart management, and secure payments**.  
+- Implemented dynamic **food item display with images, titles, and descriptions**, enhancing user browsing experience.  
+- Built an **Admin Panel** for product, user, and order management.  
+- Integrated **Stripe API** and **Cloudinary** for secure payments and optimized image handling.  
+- Resolved **15+ production issues** and optimized performance for fast, seamless navigation.  
+- Deployed using **Render**, ensuring **cross-browser responsiveness** and a smooth user experience.  
 
 ---
 
-### ✍️ **Blogify — MERN Blogging Platform**
+### ✍️ **Blogify — MERN Blogging Platform** 🔗 [GitHub Repo](https://github.com/riteshharge/Blog-MernStackDev-App)
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Redux  
-🔗 [GitHub Repo](https://github.com/riteshharge/Blog-MernStackDev-App)
+- Built a **feature-rich blog application** allowing users to create, edit, and share posts.
+- Implemented **JWT-based authentication** and enhanced login reliability by 30%, while optimizing **database queries using indexing** to improve response time by 25%.  
+- Added advanced features including **hashtags, author mentions, and commenting system** for better engagement.  
+- Fixed **10+ critical bugs** and implemented **3+ new features** improving system stability.  
+- Deployed seamlessly on **Render**, with **responsive UI design** for smooth accessibility.  
 
-**Description:**  
-A feature-rich **blog application** that allows users to create, edit, and share posts with advanced moderation and interaction features.  
-
-**Key Highlights:**  
-- Designed and implemented **CRUD operations** with MongoDB and Express, ensuring efficient data management and scalability.  
-- Built **JWT-based authentication** and enhanced login reliability by **reducing failures by 30%**.  
-- Optimized **database queries using indexing**, improving response time by 25%.  
-- Added advanced functionality including **hashtags**, **author mentions**, and a **commenting system** for better user engagement.  
-- Diagnosed and resolved **10+ critical bugs** and introduced **3+ new features**, improving system stability and UX.  
-- Integrated responsive UI design and deployed the app seamlessly via GitHub and Render.  
 
 ---
 
 ## 🧩 Currently Learning & Improving
-- 🚀 Deepening expertise in **MERN Stack Architecture** and scalability  
+- 🚀 Deepening expertise in **MERN Stack Architecture** and scalable applications  
 - ☁️ Exploring **Advanced Cloud Deployments (AWS, GCP)**  
-- ⚙️ Building **DevOps pipelines** using Docker, Jenkins, and GitHub Actions  
-- 🧠 Strengthening **Data Structures & Algorithms** with JavaScript and Java  
+- ⚙️ Practicing **DevOps pipelines** using Docker, Jenkins, and GitHub Actions  
+- 🧠 Strengthening **Data Structures & Algorithms** in JavaScript  
 
 ---
 
@@ -158,7 +146,6 @@ Rajarambapu Institute of Technology, Sangli, Maharashtra
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshharge&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=riteshharge&show_icons=true&theme=radical" height="165"/>
@@ -172,7 +159,6 @@ Rajarambapu Institute of Technology, Sangli, Maharashtra
 ---
 
 ## 🔗 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/riteshharge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hargeritesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -197,4 +183,6 @@ Rajarambapu Institute of Technology, Sangli, Maharashtra
 ---
 
 ⭐ *If you like my work, consider giving my repositories a star!* 🌟  
+
+<!-- Keywords: MERN Stack Developer, Full Stack Developer, React.js, Node.js, Express.js, MongoDB, Next.js, AWS, GCP, Vercel, Render -->
 
