@@ -30,106 +30,61 @@
 
 ## 💻 About Me
 
-I am a **MERN Full Stack Developer** skilled in end-to-end web application development, API integration, and deployment on platforms like **Render, Vercel, and Netlify**.  
-I focus on building **impactful, scalable, and user-friendly applications** that deliver real-world value.  
-I’m **actively seeking a Full Stack Developer role** to contribute my expertise, collaborate on innovative projects, and grow within a dynamic tech environment.
+I’m a **MERN Full Stack Developer** passionate about crafting high-performance, responsive, and user-centric web applications.  
+With a strong foundation in **frontend architecture**, **backend design**, and **cloud deployments**, I aim to build products that are both **scalable** and **impactful**.  
+Currently, I’m **seeking a Full Stack Developer opportunity** to apply my technical expertise and grow within an innovative and collaborative environment.
 
 ---
 
 ## 🧑‍💼 Internship Experience
 
-**MERN Stack Intern — ECS Software Technologies**  
-📍 *Pune, Maharashtra* | 🗓 *Feb 2025 – Jul 2025*  
+### 💼 **MERN Stack Intern — ECS Software Technologies**  
+📍 *Pune, Maharashtra* | 🗓 *Feb 2025 – Jul 2025*
 
-- Designed and optimized **RESTful APIs** for faster frontend-backend communication  
-- Implemented **JWT-based authentication** with secure password hashing  
-- Collaborated in **code reviews** and debugging sessions improving stability  
-- Built **end-to-end full-stack applications** integrating MongoDB and React frontends  
+- Gained **hands-on experience in full-stack web development** using the MERN stack.  
+- Designed and optimized **RESTful APIs** to reduce frontend-backend latency by 25%, improving response time and user experience.  
+- Implemented **secure JWT-based authentication and password hashing**, ensuring strong user data protection and preventing unauthorized access.  
+- Collaborated closely with **senior developers** during code reviews, debugging, and testing, improving application **stability and maintainability**.  
+- Contributed to the development of **end-to-end scalable web modules**, integrating **MongoDB**, **React.js**, and **Express.js** for real-world client requirements.  
+- Participated in **agile sprints**, team discussions, and technical documentation, strengthening collaboration and problem-solving skills.  
 
 📜 [View Internship Certificate](https://drive.google.com/file/d/your_internship_certificate_link_here/view?usp=sharing)
 
 ---
 
-## 🛠 Technical Skills
-
-### 🧩 Client-Side
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF4088?style=flat&logo=framer&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C7B7?style=flat)
-![Offline Data Handling](https://img.shields.io/badge/Offline_Data-00BFFF?style=flat)
-![QR Code Scanner](https://img.shields.io/badge/QR_Code_Scanner-000000?style=flat)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-
-### ⚙️ Server-Side
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### 🧪 Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-FF4154?style=flat)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-6D6875?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### ☁️ Deployment & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
-### ⚒️ Tools & Others
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-007ACC?style=flat&logo=azuredevops&logoColor=white)
-![Code Review](https://img.shields.io/badge/Code_Review-444444?style=flat)
-
----
-
 ## 💼 Featured Projects
 
-### 🍔 **Foodify (MERN Food Delivery App)**
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API  
-- Developed a **full-stack food delivery app** with authentication, cart, and payment features  
-- Built an **Admin Panel** for product, user, and order management  
-- Integrated **Stripe API** and **Cloudinary** for secure transactions and media handling  
-- Fixed 15+ issues and optimized performance for a seamless user experience  
+### 🍔 **Foodify — MERN Food Delivery App**  
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API, Cloudinary, Axios  
 🔗 [Live Demo](https://foodify-mern.onrender.com) | [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
+
+**Description:**  
+A full-stack, responsive **food delivery platform** enabling users to browse restaurants, add items to cart, and make secure payments.  
+
+**Key Highlights:**  
+- Developed the entire **frontend and backend architecture**, implementing routes, state management, and UI components for a seamless experience.  
+- Integrated **Stripe API** for online payments and **Cloudinary** for image storage.  
+- Built a comprehensive **Admin Panel** for managing products, users, and orders efficiently.  
+- Integrated **MongoDB Atlas** for cloud database management and scalable performance.  
+- Resolved **15+ production issues** and optimized load performance, enhancing reliability and UX by 30%.  
+- Deployed using **Render** and ensured cross-browser responsiveness through modern UI/UX best practices.  
 
 ---
 
-### ✍️ **Blogify (MERN Blog Application)**
+### ✍️ **Blogify — MERN Blogging Platform**  
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Redux  
-- Built a full-featured blog app with **CRUD**, **comments**, and **JWT authentication**  
-- Added advanced features: **hashtags**, **author mentions**, and **comment moderation**  
-- Reduced login failures by 30% and improved query performance by 25%  
 🔗 [GitHub Repo](https://github.com/riteshharge/Blog-MernStackDev-App)
+
+**Description:**  
+A feature-rich **blog application** that allows users to create, edit, and share posts with advanced moderation and interaction features.  
+
+**Key Highlights:**  
+- Designed and implemented **CRUD operations** with MongoDB and Express, ensuring efficient data management and scalability.  
+- Built **JWT-based authentication** and enhanced login reliability by **reducing failures by 30%**.  
+- Optimized **database queries using indexing**, improving response time by 25%.  
+- Added advanced functionality including **hashtags**, **author mentions**, and a **commenting system** for better user engagement.  
+- Diagnosed and resolved **10+ critical bugs** and introduced **3+ new features** improving system stability and UX.  
+- Integrated responsive UI design and deployed the app seamlessly via GitHub and Render.  
 
 ---
 
@@ -137,8 +92,8 @@ I’m **actively seeking a Full Stack Developer role** to contribute my expertis
 
 - 🚀 Deepening expertise in **MERN Stack Architecture** and scalability  
 - ☁️ Exploring **Advanced Cloud Deployments (AWS, GCP)**  
-- ⚙️ Practicing **DevOps pipelines** with Docker, Jenkins, and GitHub Actions  
-- 🧠 Strengthening **Data Structures & Algorithms** in JavaScript  
+- ⚙️ Building **DevOps pipelines** using Docker, Jenkins, and GitHub Actions  
+- 🧠 Strengthening **Data Structures & Algorithms** with JavaScript and Java  
 
 ---
 
@@ -194,3 +149,4 @@ I’m **actively seeking a Full Stack Developer role** to contribute my expertis
 ⭐ *If you like my work, consider giving my repositories a star!* 🌟  
 
 <!-- Keywords: MERN Stack Developer, Full Stack Developer, React.js, Node.js, Express.js, MongoDB, Next.js, AWS, GCP, Vercel, Render -->
+
