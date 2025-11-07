@@ -108,7 +108,7 @@ I am a **MERN Full Stack Developer** skilled in end-to-end web application devel
 
 ## 💼 Featured Projects
 
-### 🍔 **Foodify — MERN Food Delivery App** [🔗 Live Demo](https://foodify-mern.onrender.com) | [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
+### 🍔 **Foodify — MERN Food Delivery App** 🔗 [Live Demo](https://foodify-mern.onrender.com) | [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API, Cloudinary  
 - Developed a **full-stack food delivery application** with features including **authentication, cart management, and secure payments**.  
 - Implemented dynamic **food item display with images, titles, and descriptions**, enhancing user browsing experience.  
