@@ -60,8 +60,7 @@ Currently, I’m seeking a **Full Stack Developer opportunity** where I can appl
 
 ### 🍔 **Foodify — MERN Food Delivery App**  
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API, Cloudinary, Axios  
-🔗 Live Demo: *https://foodify-mern.onrender.com*  
-🔗 GitHub Repo: *https://github.com/riteshharge/Foodify-MERN*
+🔗 [Live Demo](https://foodify-mern.onrender.com) | 🔗 [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
 
 **Description:**  
 A full-stack, responsive **food delivery platform** enabling users to browse restaurants, manage carts, and make secure payments.  
@@ -77,7 +76,7 @@ A full-stack, responsive **food delivery platform** enabling users to browse res
 
 ### ✍️ **Blogify — MERN Blogging Platform**  
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Redux  
-🔗 GitHub Repo: *https://github.com/riteshharge/Blog-MernStackDev-App*
+🔗 [GitHub Repo](https://github.com/riteshharge/Blog-MernStackDev-App)
 
 **Description:**  
 A feature-rich **blog application** that allows users to create, edit, and share posts securely.  
