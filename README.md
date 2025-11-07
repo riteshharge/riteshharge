@@ -17,7 +17,7 @@
 ## 🌟 Highlights
 - 🧑‍💻 MERN Stack Developer with hands-on **internship experience at ECS Software Technologies**
 - ⚙️ Built and deployed **full-stack applications** — *Foodify* (Stripe-integrated) and *Blogify* (JWT Auth)
-- ☁️ Skilled in **AWS, GCP, Render, Vercel, and Netlify**
+- ☁️ Skilled in **React.js, Node.js, GCP, Render, Vercel, and Netlify**
 - 💡 Experienced in **RESTful APIs, Authentication, Payment Integration, and Admin Dashboards**
 - 🧩 Solved **250+ DSA problems** on CodeChef, focusing on Java and problem-solving logic
 - 🚀 Actively **learning and improving advanced MERN concepts**, cloud deployments, and DevOps workflows
