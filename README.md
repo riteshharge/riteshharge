@@ -6,7 +6,7 @@
 <h2 align="center">🚀 MERN Full Stack Developer | Problem Solver | Continuous Learner</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;API+Integration+%7C+Cloud+Deployment;Performance+Optimization+%7C+DevOps+Practices;Actively+Learning+and+Improving+MERN+Stack"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20There!%20I'm%20Ritesh%20Harge%20👋&fontSize=30&fontAlignY=35&animation=twinkling"/>
 </p>
 
 ---
@@ -41,8 +41,6 @@ I’m **actively seeking a Full Stack Developer role** to contribute my expertis
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C7B7?style=flat)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF4088?style=flat&logo=framer&logoColor=white)
-![Offline Data Handling](https://img.shields.io/badge/Offline_Data-00BFFF?style=flat)
-![QR Code Scanner](https://img.shields.io/badge/QR_Code_Scanner-000000?style=flat)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 
 ### ⚙️ Server-Side
