@@ -1,4 +1,3 @@
-
 <!-- Animated Header -->
 <p align="center">
   <img 
@@ -7,9 +6,7 @@
   />
 </p>
 
-<h2 align="center">
-  ⚙️ MERN Stack Developer | Solving Real-World Problems through Scalable Web Solutions
-</h2>
+<h2 align="center">⚙️ MERN Stack Developer | Solving Real-World Problems through Scalable Web Solutions</h2>
 
 <p align="center">
   <img 
@@ -17,9 +14,11 @@
     alt="Typing Effect"
   />
 </p>
+
 ---
 
 ## 🌟 Highlights
+
 - 🧑‍💻 MERN Stack Developer with hands-on **internship experience at ECS Software Technologies**
 - ⚙️ Built and deployed **2 full-stack applications** — *Foodify* (Stripe-integrated) and *Blogify* (JWT Auth)
 - ☁️ Skilled in **AWS, GCP, Render, Vercel, and Netlify**
@@ -30,6 +29,7 @@
 ---
 
 ## 💻 About Me
+
 I am a **MERN Full Stack Developer** skilled in end-to-end web application development, API integration, and deployment on platforms like **Render, Vercel, and Netlify**.  
 I focus on building **impactful, scalable, and user-friendly applications** that deliver real-world value.  
 I’m **actively seeking a Full Stack Developer role** to contribute my expertise, collaborate on innovative projects, and grow within a dynamic tech environment.
@@ -37,13 +37,14 @@ I’m **actively seeking a Full Stack Developer role** to contribute my expertis
 ---
 
 ## 🧑‍💼 Internship Experience
+
 **MERN Stack Intern — ECS Software Technologies**  
 📍 *Pune, Maharashtra* | 🗓 *Feb 2025 – Jul 2025*  
 
-- Designed and optimized **RESTful APIs** for faster frontend-backend communication.  
-- Implemented **JWT-based authentication** with secure password hashing.  
-- Collaborated in **code reviews** and debugging sessions improving stability.  
-- Worked on **end-to-end full-stack applications** integrating MongoDB and React frontends.  
+- Designed and optimized **RESTful APIs** for faster frontend-backend communication  
+- Implemented **JWT-based authentication** with secure password hashing  
+- Collaborated in **code reviews** and debugging sessions improving stability  
+- Built **end-to-end full-stack applications** integrating MongoDB and React frontends  
 
 📜 [View Internship Certificate](https://drive.google.com/file/d/your_internship_certificate_link_here/view?usp=sharing)
 
@@ -60,8 +61,8 @@ I’m **actively seeking a Full Stack Developer role** to contribute my expertis
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C7B7?style=flat)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF4088?style=flat&logo=framer&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C7B7?style=flat)
 ![Offline Data Handling](https://img.shields.io/badge/Offline_Data-00BFFF?style=flat)
 ![QR Code Scanner](https://img.shields.io/badge/QR_Code_Scanner-000000?style=flat)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
@@ -133,6 +134,7 @@ I’m **actively seeking a Full Stack Developer role** to contribute my expertis
 ---
 
 ## 🧩 Currently Learning & Improving
+
 - 🚀 Deepening expertise in **MERN Stack Architecture** and scalability  
 - ☁️ Exploring **Advanced Cloud Deployments (AWS, GCP)**  
 - ⚙️ Practicing **DevOps pipelines** with Docker, Jenkins, and GitHub Actions  
@@ -141,8 +143,9 @@ I’m **actively seeking a Full Stack Developer role** to contribute my expertis
 ---
 
 ## 🎓 Education
+
 **B.Tech in Computer Engineering**  
-Rajarambapu Institute of Technology, Sangli, Maharashtra  
+🏫 Rajarambapu Institute of Technology, Sangli, Maharashtra  
 📅 *Sept 2021 – Jul 2025*
 
 ---
@@ -175,6 +178,7 @@ Rajarambapu Institute of Technology, Sangli, Maharashtra
 ---
 
 ## 👁️ Profile Visitors
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riteshharge&label=Profile%20Views&color=0e75b6&style=flat" alt="riteshharge" />
 </p>
@@ -182,6 +186,7 @@ Rajarambapu Institute of Technology, Sangli, Maharashtra
 ---
 
 ## ⚡ Fun Fact
+
 > “I love turning real-world problems into elegant, scalable code — one commit at a time.”
 
 ---
@@ -189,4 +194,3 @@ Rajarambapu Institute of Technology, Sangli, Maharashtra
 ⭐ *If you like my work, consider giving my repositories a star!* 🌟  
 
 <!-- Keywords: MERN Stack Developer, Full Stack Developer, React.js, Node.js, Express.js, MongoDB, Next.js, AWS, GCP, Vercel, Render -->
-
