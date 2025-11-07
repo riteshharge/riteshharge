@@ -18,6 +18,7 @@
   />
 </p>
 ---
+
 ## 🌟 Highlights
 - 🧑‍💻 MERN Stack Developer with hands-on **internship experience at ECS Software Technologies**
 - ⚙️ Built and deployed **2 full-stack applications** — *Foodify* (Stripe-integrated) and *Blogify* (JWT Auth)
