@@ -119,6 +119,7 @@
 
 ### 💼 **TalentIQ — Remote Interview & Pair Programming Platform** 🔗 [Live Demo](https://talentiq-interviewplatform.onrender.com) | [GitHub Repo](https://github.com/riteshharge/TalentIQ)
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Clerk, Inngest, Stream, TanStack Query
+
 • Developed an advanced remote interview platform with a VSCode-like collaborative editor for live pair programming.
 • Added a LeetCode-style coding practice environment supporting multiple languages with real-time feedback.
 • Integrated Clerk (auth), Inngest (background jobs), and Stream (video chat, recording, screen sharing) with a scalable Node.js
