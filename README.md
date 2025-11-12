@@ -37,9 +37,9 @@
 📍 *Pune, Maharashtra* | 🗓 *Feb 2025 – Jul 2025*
 
  • Gained hands-on experience in full-stack development using MERN stack; architected and optimized RESTful APIs to streamline
- frontend–backend integration, reduce latency, and enhance performance.
+ frontend–backend integration, reduce latency, and enhance performance.  
  • Collaborated with senior engineers during code reviews and debugging sessions to improve stability and implemented JWT-based
- authentication with cryptographic hashing.
+ authentication with cryptographic hashing.  
  • Recognized as an Outstanding Intern for delivering secure, production-ready code aligned with best practices. 
 
 📜 [View Internship Certificate](https://drive.google.com/file/d/1VO_JXUowvE5OCYDjlCKLm8MKsb-DTJFT/view)
