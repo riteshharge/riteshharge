@@ -113,7 +113,7 @@
 
 ### 🍔 **Foodify — MERN Food Delivery App** 🔗 [Live Demo](https://foodify-mern.onrender.com) | [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API, Cloudinary  
-• Built a full-stack food ordering app with secure login, dynamic menus, cart, and Stripe-based payment flow.
+• Built a full-stack food ordering app with secure login, dynamic menus, cart, and Stripe-based payment flow.  
 • Developed a responsive admin dashboard for menu, order, and listing management, improving operational efficiency.
 • Integrated MongoDB Atlas for storage and JWT for access control, resolving 25+ issues to enhance performance and UX.  
 
