@@ -114,20 +114,20 @@
 ### 🍔 **Foodify — MERN Food Delivery App** 🔗 [Live Demo](https://foodify-mern.onrender.com) | [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API, Cloudinary  
 • Built a full-stack food ordering app with secure login, dynamic menus, cart, and Stripe-based payment flow.  
-• Developed a responsive admin dashboard for menu, order, and listing management, improving operational efficiency.
+• Developed a responsive admin dashboard for menu, order, and listing management, improving operational efficiency.  
 • Integrated MongoDB Atlas for storage and JWT for access control, resolving 25+ issues to enhance performance and UX.  
 
 ### 💼 **TalentIQ — Remote Interview & Pair Programming Platform** 🔗 [Live Demo](https://talentiq-interviewplatform.onrender.com) | [GitHub Repo](https://github.com/riteshharge/TalentIQ)
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Clerk, Inngest, Stream, TanStack Query
-• Developed an advanced remote interview platform with a VSCode-like collaborative editor for live pair programming.
-• Added a LeetCode-style coding practice environment supporting multiple languages with real-time feedback.
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Clerk, Inngest, Stream, TanStack Query  
+• Developed an advanced remote interview platform with a VSCode-like collaborative editor for live pair programming.  
+• Added a LeetCode-style coding practice environment supporting multiple languages with real-time feedback.  
 • Integrated Clerk (auth), Inngest (background jobs), and Stream (video chat, recording, screen sharing) with a scalable Node.js
  backend.
 
 
 ### 🤖 **OptimizeList-AI — AI-Powered Amazon Listing Generator** 🔗 [Live Demo](https://ai-powered-amazon-product-listing-xo2w.onrender.com) | [GitHub Repo](https://github.com/riteshharge/OptimizeList-AI)
-**Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, Gemini AI, RESTful APIs
-• Created an AI-powered tool using Gemini AI to generate SEO-optimized Amazon product listings for better visibility.
+**Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, Gemini AI, RESTful APIs  
+• Created an AI-powered tool using Gemini AI to generate SEO-optimized Amazon product listings for better visibility.  
 • Integrated React + Vite frontend with a Node.js/Express backend and MongoDB for efficient ASIN-based data handling.
 
 ---
