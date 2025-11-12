@@ -25,7 +25,10 @@
 ---
 
 ## 💻 About Me
-I am a **MERN Full Stack Developer** skilled in end-to-end web application development, API integration, and deployment on platforms like **Render, Vercel, and Netlify**. Equipped with strong hands-on project and internship experience, with a focus on building **impactful, scalable, and user-friendly applications**. Actively seeking a **full-stack developer role** to contribute my technical expertise and continuously enhance my skills and knowledge.
+ MERN Full Stack Developer with expertise in web application architecture, RESTful API integration, and cloud deployment using
+ Render, Vercel, and Netlify. Passionate about crafting scalable, efficient, and user-focused solutions through hands-on project and
+ internship experience. Seeking a Full Stack Developer role to leverage technical expertise, develop robust web solutions, and drive
+ continuous improvement using modern technologies.
 
 ---
 
@@ -33,13 +36,13 @@ I am a **MERN Full Stack Developer** skilled in end-to-end web application devel
 ### 💼 **MERN Stack Intern — ECS Software Technologies**  
 📍 *Pune, Maharashtra* | 🗓 *Feb 2025 – Jul 2025*
 
-- Gained **hands-on experience in full-stack web development** using the MERN stack.  
-- Designed and optimized **RESTful APIs** to reduce frontend-backend latency by 25%, improving response time and application performance.  
-- Implemented **secure JWT-based authentication and password hashing**, ensuring strong user data protection and preventing unauthorized access.  
-- Collaborated closely with **senior developers** during code reviews, debugging, and testing, improving application **stability and maintainability**.  
-- Participated in **agile sprints, team discussions, and technical documentation**, strengthening collaboration and problem-solving skills.  
+ • Gained hands-on experience in full-stack development using MERN stack; architected and optimized RESTful APIs to streamline
+ frontend–backend integration, reduce latency, and enhance performance.
+ • Collaborated with senior engineers during code reviews and debugging sessions to improve stability and implemented JWT-based
+ authentication with cryptographic hashing.
+ • Recognized as an Outstanding Intern for delivering secure, production-ready code aligned with best practices. 
 
-📜 [View Internship Certificate](https://drive.google.com/file/d/your_internship_certificate_link_here/view?usp=sharing)
+📜 [View Internship Certificate](https://drive.google.com/file/d/1VO_JXUowvE5OCYDjlCKLm8MKsb-DTJFT/view)
 
 ---
 
