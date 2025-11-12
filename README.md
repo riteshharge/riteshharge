@@ -119,14 +119,39 @@ I am a **MERN Full Stack Developer** skilled in end-to-end web application devel
 
 ---
 
-### ✍️ **Blogify — MERN Blogging Platform** 🔗 [GitHub Repo](https://github.com/riteshharge/Blog-MernStackDev-App)
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Redux  
-- Built a **feature-rich blog application** allowing users to create, edit, and share posts.
-- Implemented **JWT-based authentication** and enhanced login reliability by 30%, while optimizing **database queries using indexing** to improve response time by 25%.  
-- Added advanced features including **hashtags, author mentions, and commenting system** for better engagement.  
-- Fixed **10+ critical bugs** and implemented **3+ new features** improving system stability.  
-- Deployed seamlessly on **Render**, with **responsive UI design** for smooth accessibility.  
+###💼 TalentIQ — Remote Interview & Pair Programming Platform 🔗 Live Demo
+ | GitHub Repo
 
+Tech Stack: React.js, Node.js, Express.js, MongoDB, Clerk, Inngest, Stream, TanStack Query
+
+Built a remote interview platform with a VSCode-like collaborative coding editor for real-time pair programming.
+
+Integrated Clerk for secure authentication and Inngest for background job orchestration.
+
+Implemented Stream API for video calls, screen sharing, and recording, improving communication and assessment flow.
+
+Designed a LeetCode-style practice environment supporting multiple programming languages and instant feedback.
+
+Optimized backend APIs for scalability and seamless interviewer–candidate interaction.
+
+Deployed on Render with a fully responsive UI and reliable CI/CD pipeline.
+
+🤖 OptimizeList-AI — AI-Powered Amazon Listing Generator 🔗 Live Demo
+ | GitHub Repo
+
+Tech Stack: React.js, Vite, Node.js, Express.js, MongoDB, Gemini AI, RESTful APIs
+
+Developed an AI-driven web tool to generate SEO-optimized Amazon listings based on ASIN input.
+
+Integrated Gemini AI for intelligent, keyword-rich content generation to boost product visibility.
+
+Built a responsive React + Vite frontend with real-time data processing and validation.
+
+Engineered a Node.js/Express backend with MongoDB for persistent storage and fast API responses.
+
+Improved performance by reducing API latency by 30% through optimized data handling.
+
+Deployed on Render for high availability, responsive design, and minimal load times.
 
 ---
 
