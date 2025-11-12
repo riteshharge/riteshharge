@@ -110,48 +110,22 @@ I am a **MERN Full Stack Developer** skilled in end-to-end web application devel
 
 ### 🍔 **Foodify — MERN Food Delivery App** 🔗 [Live Demo](https://foodify-mern.onrender.com) | [GitHub Repo](https://github.com/riteshharge/Foodify-MERN)
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Stripe API, Cloudinary  
-- Developed a **full-stack food delivery application** with features including **authentication, cart management, and secure payments**.  
-- Implemented dynamic **food item display with images, titles, and descriptions**, enhancing user browsing experience.  
-- Built an **Admin Panel** for product, user, and order management.  
-- Integrated **Stripe API** and **Cloudinary** for secure payments and optimized image handling.  
-- Resolved **15+ production issues** and optimized performance for fast, seamless navigation.  
-- Deployed using **Render**, ensuring **cross-browser responsiveness** and a smooth user experience.  
+• Built a full-stack food ordering app with secure login, dynamic menus, cart, and Stripe-based payment flow.
+• Developed a responsive admin dashboard for menu, order, and listing management, improving operational efficiency.
+• Integrated MongoDB Atlas for storage and JWT for access control, resolving 25+ issues to enhance performance and UX.  
 
----
+### 💼 **TalentIQ — Remote Interview & Pair Programming Platform** 🔗 [Live Demo](https://talentiq-interviewplatform.onrender.com) | [GitHub Repo](https://github.com/riteshharge/TalentIQ)
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Clerk, Inngest, Stream, TanStack Query
+• Developed an advanced remote interview platform with a VSCode-like collaborative editor for live pair programming.
+• Added a LeetCode-style coding practice environment supporting multiple languages with real-time feedback.
+• Integrated Clerk (auth), Inngest (background jobs), and Stream (video chat, recording, screen sharing) with a scalable Node.js
+ backend.
 
-###💼 TalentIQ — Remote Interview & Pair Programming Platform 🔗 Live Demo
- | GitHub Repo
 
-Tech Stack: React.js, Node.js, Express.js, MongoDB, Clerk, Inngest, Stream, TanStack Query
-
-Built a remote interview platform with a VSCode-like collaborative coding editor for real-time pair programming.
-
-Integrated Clerk for secure authentication and Inngest for background job orchestration.
-
-Implemented Stream API for video calls, screen sharing, and recording, improving communication and assessment flow.
-
-Designed a LeetCode-style practice environment supporting multiple programming languages and instant feedback.
-
-Optimized backend APIs for scalability and seamless interviewer–candidate interaction.
-
-Deployed on Render with a fully responsive UI and reliable CI/CD pipeline.
-
-🤖 OptimizeList-AI — AI-Powered Amazon Listing Generator 🔗 Live Demo
- | GitHub Repo
-
-Tech Stack: React.js, Vite, Node.js, Express.js, MongoDB, Gemini AI, RESTful APIs
-
-Developed an AI-driven web tool to generate SEO-optimized Amazon listings based on ASIN input.
-
-Integrated Gemini AI for intelligent, keyword-rich content generation to boost product visibility.
-
-Built a responsive React + Vite frontend with real-time data processing and validation.
-
-Engineered a Node.js/Express backend with MongoDB for persistent storage and fast API responses.
-
-Improved performance by reducing API latency by 30% through optimized data handling.
-
-Deployed on Render for high availability, responsive design, and minimal load times.
+### 🤖 **OptimizeList-AI — AI-Powered Amazon Listing Generator** 🔗 [Live Demo](https://ai-powered-amazon-product-listing-xo2w.onrender.com) | [GitHub Repo](https://github.com/riteshharge/OptimizeList-AI)
+**Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, Gemini AI, RESTful APIs
+• Created an AI-powered tool using Gemini AI to generate SEO-optimized Amazon product listings for better visibility.
+• Integrated React + Vite frontend with a Node.js/Express backend and MongoDB for efficient ASIN-based data handling.
 
 ---
 
