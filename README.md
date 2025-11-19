@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  ⚙️ Full-Stack MERN Developer <br/>
+  ⚙️ MERN Full-Stack Developer <br/>
   Solving Real-World Problems through Scalable Web Solutions
 </h2>
 
