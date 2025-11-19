@@ -172,13 +172,6 @@ Rajarambapu Institute of Technology, Sangli, Maharashtra
 
 ---
 
-## 👁️ Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshharge&label=Profile%20Views&color=0e75b6&style=flat" alt="riteshharge" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 > “I love turning real-world problems into elegant, scalable code — one commit at a time.”
 
